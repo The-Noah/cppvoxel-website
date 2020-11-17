@@ -91,6 +91,10 @@ h2{
   svg{
     height: 80px;
     filter: drop-shadow(.1rem .1rem .7rem rgba(0, 0, 0, .5));
+
+    @include mobile{
+      height: 40px;
+    }
   }
 
   p{
