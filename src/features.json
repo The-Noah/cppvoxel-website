@@ -1,18 +1,18 @@
 [
   {
-    "title": "custom engine",
+    "title": "Custom Engine",
     "text": "Written from scratch in C++ using OpenGL"
   },
   {
-    "title": "low memory footprint",
+    "title": "Low Memory Footprint",
     "text": "Highly optimized RAM and VRAM usage"
   },
   {
-    "title": "single file executable",
+    "title": "Single File Executable",
     "text": "Completely self contained"
   },
   {
-    "title": "particle system",
+    "title": "Particle System",
     "text": "It can rain and snow"
   }
 ]
